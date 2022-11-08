@@ -79,7 +79,9 @@ There are many other tools available as automation servers, including:
 4. Copy the private key to the Jenkins server
 5. Create a new Jenkins Job
 
-## create new key pair
+### Create new key pair
+
+Generate a new key pair using the following command:
 
 ```bash
 ssh-keygen -t rsa -b 4096 -C "eng130_jenkins_aneese"
