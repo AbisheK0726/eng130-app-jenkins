@@ -86,3 +86,5 @@ Generate a new key pair using the following command:
 ```bash
 ssh-keygen -t rsa -b 4096 -C "eng130_jenkins_aneese"
 ```
+
+Name the file eng130_jenkins_aneese and leave the passphrase blank.
