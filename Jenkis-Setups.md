@@ -1,5 +1,7 @@
 # Setup
 
+![Setup](images/Jenkins-AWS-Setup.png.png)
+
 ## Login to Jenkins
 
 1. Open a browser and go to the Jenkins server URL: `http://<Jenkins-Server-IP>:8080`
