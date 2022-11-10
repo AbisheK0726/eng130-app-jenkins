@@ -10,13 +10,13 @@ CICD is a process of automating the build and deployment of software. It is a co
 
 Continuous Integration is a software development practice where developers integrate code into a shared repository frequently. Each integration can then be verified by an automated build and automated tests. By doing so, you can detect errors quickly, and locate them more easily.
 
-### What is Continuous Deployment?
-
-Continuous Deployment is a software development practice where code that has been integrated into a shared repository is automatically deployed to a testing or staging environment. By doing so, you can verify whether the software is ready for release. If it is not, you can fix it before releasing it to the production environment.
-
 ### What is Continuous Delivery?
 
 Continuous Delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production. It is a part of the larger DevOps methodology. It is very similar to Continuous Integration, except that it also includes the preparation of the software for release.
+
+### What is Continuous Deployment?
+
+Continuous Deployment is a software development practice where code that has been integrated into a shared repository is automatically deployed to a testing or staging environment. By doing so, you can verify whether the software is ready for release. If it is not, you can fix it before releasing it to the production environment.
 
 ### Difference between Continuous Delivery and Continuous Deployment
 
