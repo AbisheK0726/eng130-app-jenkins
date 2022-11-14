@@ -73,8 +73,8 @@ There are many other tools available as automation servers, including:
 
 ## Steps to Setup Jenkins
 
-1. Create a new CICD-Pipline project - app folder
-2. Create a new SSH key pair called eng130_jenkins_aneese - in the .ssh folder
-3. Copy the file.pub contents to the GitHub repository
-4. Copy the private key to the Jenkins server
-5. Create a new Jenkins Job
+Go to [Jenkins Setup](Jenkins-Setups.md) to learn how to setup Jenkins.
+
+### What is infrastructure as code?
+
+Infrastructure as code is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. It is a part of the cloud computing paradigm that involves treating infrastructure like a managed code repository.
